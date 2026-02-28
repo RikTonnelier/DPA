@@ -575,7 +575,7 @@
 574	"Kelly, Miss. Mary"
 575	"Rush, Mr. Alfred George John"
 576	"Patchett, Mr. George"
-577	"Nigerian Prince"
+577	"Redd Haynded"
 578	"Silvey, Mrs. William Baird (Alice Munger)"
 579	"Caram, Mrs. Joseph (Maria Elias)"
 580	"Jussila, Mr. Eiriik"
